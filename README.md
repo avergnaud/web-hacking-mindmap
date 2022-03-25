@@ -1,6 +1,12 @@
-# mind map - intro to web hacking
+# mind map - web hacking
 
 ![map](./intro-web-hacking.drawio.png?raw=true)
+
+## infrastructure
+
+### DNS
+
+
 
 # theCyberGuy recon mind map
 
