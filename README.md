@@ -82,13 +82,21 @@
      - Time based
    - Out-of-Band SQLi  
 
-# mind map - access control
+# access control
 
 ![access control](./Access-Control-vaulnerabilites.png?raw=true)
 
-## infrastructure
+# Recon Tools for Web Application Pentesting
 
-### DNS
+![recon tools](./recon_tools.jpg?raw=true)
+
+# Hacking articles - Web App Pentest
+
+![hacking articles](./hacking-articles-mindmap.png?raw=true)
+
+# infrastructure
+
+## DNS
 
 
 
