@@ -7,6 +7,10 @@
 
 ![map](./intro-web-hacking.drawio.png?raw=true)
 
+# mind map - access control
+
+![access control](./Access-Control-vaulnerabilites.png?raw=true)
+
 ## infrastructure
 
 ### DNS
