@@ -94,6 +94,10 @@
 
 ![hacking articles](./hacking-articles-mindmap.png?raw=true)
 
+# 0xshahriar web hacking mindmap
+
+![0xshahriar](./Pentesting_Mind_Map_0xshahriar.png?raw=true)
+
 # infrastructure
 
 ## DNS
