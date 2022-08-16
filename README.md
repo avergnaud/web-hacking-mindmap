@@ -90,13 +90,31 @@
 
 ![recon tools](./recon_tools.jpg?raw=true)
 
-# Hacking articles - Web App Pentest
+## final recon
+
+[https://hakin9.org/final-recon-osint-tool-for-all-in-one-web-reconnaissance/](https://hakin9.org/final-recon-osint-tool-for-all-in-one-web-reconnaissance/)
+
+[https://github.com/thewhiteh4t/FinalRecon](https://github.com/thewhiteh4t/FinalRecon)
+
+# Hacking articles 
+
+## Web App Pentest
 
 ![hacking articles](./hacking-articles-mindmap.png?raw=true)
+
+## Web application hacking
+
+![hacking articles 2](./hacking-articles-webapp-hacking.png?raw=true)
 
 # 0xshahriar web hacking mindmap
 
 ![0xshahriar](./Pentesting_Mind_Map_0xshahriar.png?raw=true)
+
+# hakluke
+
+[https://labs.detectify.com/2022/05/16/how-to-hack-web-applications/](https://labs.detectify.com/2022/05/16/how-to-hack-web-applications/)
+
+[https://labs.detectify.com/2022/08/05/how-to-hack-web-applications-in-2022/](https://labs.detectify.com/2022/08/05/how-to-hack-web-applications-in-2022/)
 
 # infrastructure
 
