@@ -70,6 +70,7 @@
    - DOM based XSS
    - Blind XSS
      - [https://xsshunter.com/](https://xsshunter.com/)
+   - [https://github.com/t3l3machus/toxssin](https://github.com/t3l3machus/toxssin)
 - Command injection
    - command-injection-payload-list
 - SQL injection
@@ -86,7 +87,7 @@
 
 ![access control](./Access-Control-vaulnerabilites.png?raw=true)
 
-# Recon Tools for Web Application Pentesting
+# Tools for Web Application Pentesting
 
 ![recon tools](./recon_tools.jpg?raw=true)
 
@@ -95,6 +96,10 @@
 [https://hakin9.org/final-recon-osint-tool-for-all-in-one-web-reconnaissance/](https://hakin9.org/final-recon-osint-tool-for-all-in-one-web-reconnaissance/)
 
 [https://github.com/thewhiteh4t/FinalRecon](https://github.com/thewhiteh4t/FinalRecon)
+
+## rekono
+
+[https://securityonline.info/rekono-execute-complete-pentesting-processes/](https://securityonline.info/rekono-execute-complete-pentesting-processes/)
 
 # Hacking articles 
 
