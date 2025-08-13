@@ -43,6 +43,7 @@
 - authentication bypass
    - username enumeration
      - ffuf
+     - Enumeration in Authentication Forms see [enumerationbruteforce](https://tryhackme.com/room/enumerationbruteforce)
    - bruteforce
      - ffuf
    - logic flaw
