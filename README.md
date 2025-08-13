@@ -43,7 +43,8 @@
 - authentication bypass
    - username enumeration
      - ffuf
-     - Enumeration in Authentication Forms see [enumerationbruteforce](https://tryhackme.com/room/enumerationbruteforce)
+     - Enumeration in Authentication Forms - see [enumerationbruteforce](https://tryhackme.com/room/enumerationbruteforce)
+     - Exploiting Vulnerable Password Reset Logic - see [enumerationbruteforce](https://tryhackme.com/room/enumerationbruteforce)
    - bruteforce
      - ffuf
    - logic flaw
