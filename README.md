@@ -47,6 +47,7 @@
      - Exploiting Vulnerable Password Reset Logic - see [enumerationbruteforce](https://tryhackme.com/room/enumerationbruteforce)
    - bruteforce
      - ffuf
+     - Exploiting HTTP Basic Authentication - see [enumerationbruteforce](https://tryhackme.com/room/enumerationbruteforce)
    - logic flaw
    - cookie tampering
      - [https://crackstation.net](https://crackstation.net)
