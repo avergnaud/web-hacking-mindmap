@@ -45,6 +45,7 @@
      - ffuf
      - Enumeration in Authentication Forms - see [enumerationbruteforce](https://tryhackme.com/room/enumerationbruteforce)
      - Exploiting Vulnerable Password Reset Logic - see [enumerationbruteforce](https://tryhackme.com/room/enumerationbruteforce)
+     - waybackurls
    - bruteforce
      - ffuf
      - Exploiting HTTP Basic Authentication - see [enumerationbruteforce](https://tryhackme.com/room/enumerationbruteforce)
