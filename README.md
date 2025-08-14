@@ -55,6 +55,11 @@
    - JWT - see [jwtsecurity](https://tryhackme.com/room/jwtsecurity)
      - Sensitive Information Disclosure
      - Signature Validation Mistakes
+       - No verification
+       - alg None
+       - Weak Symmetric Secrets
+         - [hashcat](https://hashcat.net/hashcat/)
+         - [john](https://www.openwall.com/john/)
      - JWT Lifetimes
      - Cross-Service Relay Attacks
 - Insecure Direct Object Reference
