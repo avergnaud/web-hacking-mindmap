@@ -60,6 +60,7 @@
        - Weak Symmetric Secrets
          - [hashcat](https://hashcat.net/hashcat/)
          - [john](https://www.openwall.com/john/)
+         - [CyberChef](https://gchq.github.io/CyberChef/)
      - JWT Lifetimes
      - Cross-Service Relay Attacks
 - Insecure Direct Object Reference
