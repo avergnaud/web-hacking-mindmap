@@ -52,6 +52,11 @@
    - logic flaw
    - cookie tampering
      - [https://crackstation.net](https://crackstation.net)
+   - JWT - see [jwtsecurity](https://tryhackme.com/room/jwtsecurity)
+     - Sensitive Information Disclosure
+     - Signature Validation Mistakes
+     - JWT Lifetimes
+     - Cross-Service Relay Attacks
 - Insecure Direct Object Reference
    - ids
      - base64
