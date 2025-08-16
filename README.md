@@ -64,6 +64,8 @@
        - Signature Algorithm Confusion
      - JWT Lifetimes
      - Cross-Service Relay Attacks
+- OAuth 2 flaws
+   - state parameter & CSRF
 - Insecure Direct Object Reference
    - ids
      - base64
