@@ -5,6 +5,22 @@
 
 # mind map - web hacking
 
+vulns faciles = CVE, exploits en ligne
+
+nmap
+
+idor
+
+créer 2 comptes, voir si pb autorisations
+
+burpsuite pro, auto detect quand on navigue
+
+firewall, shodan, trouver IP serveur
+
+convenir avec client disable FW
+
+en amont, passive recon, technos, rooms thm spécifiques...
+
 - walking an application
    - view source
    - inspector
