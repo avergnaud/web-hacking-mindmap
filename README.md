@@ -19,6 +19,8 @@ firewall, shodan, trouver IP serveur
 
 convenir avec client disable FW
 
+convenir avec client risque / conditions Denial Of Service
+
 en amont, passive recon, technos, rooms thm spécifiques...
 
 - walking an application
