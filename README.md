@@ -46,6 +46,7 @@ en amont, passive recon, technos, rooms thm spécifiques...
        - SecLists
      - automation tools
        - ffuf
+         - ffuf -w /usr/share/wordlists/dirb/common.txt -u '<target_IP>/prefixe_FUZZ'
        - dirb
        - gobuster
        - [nuclei](https://nuclei.projectdiscovery.io/nuclei/get-started/)
