@@ -111,6 +111,7 @@ en amont, passive recon, technos, rooms thm spécifiques...
    - [https://github.com/t3l3machus/toxssin](https://github.com/t3l3machus/toxssin)
 - Command injection
    - command-injection-payload-list
+- email injection (password reset)
 - SQL injection
    - In-Band SQL injection
    - Error-Based SQL injection
